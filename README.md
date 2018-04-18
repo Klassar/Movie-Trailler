@@ -15,4 +15,4 @@ git clone https://github.com/Klassar/Popcorn-Traillers
 I don't have any specific guidlines for contributing to this project, I simply ask any code you contribute is well documented so I and others can understand it. Enjoy!
 
 # License
-[Popcorn Trailers]() is a public domain project under [CC0 1.0.](https://creativecommons.org/publicdomain/zero/1.0/)
+[Popcorn Trailers]() is a public domain project under [MIT](https://mit-license.org/)
